@@ -7,7 +7,7 @@
 	"license": "GPL",
 	"language": "python",
 	"scripts": {
-		"starg": "python3 main.py",
+		"start": "python3 main.py",
 	},
 	"dependency": null
 }
